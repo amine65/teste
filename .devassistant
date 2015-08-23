@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.9.4
+original_kwargs:
+  github: !!python/unicode 'amine65'
+  name: !!python/unicode '/home/amine/teste'
+project_type:
+- c
